@@ -23,6 +23,6 @@ The distribution of the Event count by Date and Hour is to be seen in the follow
 
 Graphs were created to analyze the impact of the hour and day of the week on the Event count.
 
-![Example Image](images/Event count by hour.png)
+![Example Image](images/Eventcountbyhour.png)
 
 ![Example Image](images/eventcountbydayofweek.png)
