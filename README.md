@@ -14,3 +14,7 @@ Predicting the Event Count over time is essential for optimizing resource alloca
 
 In order to have the data ready to perform time series analysis it is necessary to have the date variable in a date format and to have it as an index. There were neither outliers, nor duplicated or null values.
 Features such as hour and dayofweek were created to add more insights to the analysis.
+
+The distribution of the Event count by Date and Hour is to be seen in the following graph
+
+![Example Image](images/original.png)
