@@ -18,3 +18,11 @@ Features such as hour and dayofweek were created to add more insights to the ana
 The distribution of the Event count by Date and Hour is to be seen in the following graph
 
 ![Example Image](images/original.png)
+
+## Exploratory Data Analysis
+
+Graphs were created to analyze the impact of the hour and day of the week on the Event count.
+
+![Example Image](images/Event count by hour.png)
+
+![Example Image](images/eventcountbydayofweek.png)
