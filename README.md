@@ -26,3 +26,29 @@ Graphs were created to analyze the impact of the hour and day of the week on the
 ![Example Image](images/Eventcountbyhour.png)
 
 ![Example Image](images/eventcountbydayofweek.png)
+
+## Model Building
+
+Three different models were built
+
+### XGBoost
+
+A 3Fold Data Train/Test was conducted for it. 
+
+![Example Image](images/traintest.png)
+
+Future Predictions for one week
+
+![Example Image](images/predictionsweekxgbo.png)
+
+### XGBoost with Lag Features
+
+### Prophet
+
+![Example Image](images/propet.png)
+
+## Model Performance
+
+The three models achieved impressive results, each demonstrating a mean absolute error of less than 13%. Among them, **XGBoost** stood out as the top performer, with a **Mean Absolute Error** of **123.4** and a **Mean Absolute Percentage Error** of **0.103**.
+
+![Example Image](images/results.png)
